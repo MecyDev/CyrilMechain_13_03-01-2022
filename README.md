@@ -4,7 +4,7 @@
 
 # Projet Open Class Rooms #13 - ARGENTBANK
 
-This is project 13 of the Open Class Rooms Front-End course.
+This is project 13 of the Open Class Rooms Front-End course. The goal of this project is to refactor an old JQuery site into a modern React app.
 
 ## Technologies
 
